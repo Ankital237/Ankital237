@@ -1,8 +1,9 @@
 # Hello, I am Ankita Lokhande
 
-### Aspiring Data Analyst | Passionate about Data-Driven Solutions
+### Aspiring Data Analyst | Driven by Data-Driven Insights
 
 Welcome to my GitHub profile! I’m a **B.Tech graduate in Information Technology** with a keen interest in using data to solve real-world challenges. With a strong foundation in analytics, I am excited to build my expertise in data visualization, statistical analysis, and Python programming to uncover meaningful insights and drive impactful decisions.
+
 
 ---
 
