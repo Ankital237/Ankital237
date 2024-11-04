@@ -39,7 +39,7 @@ Here are a few projects I’ve worked on to build my practical skills in analyti
 ### 📫 Connect with Me
 I'm always open to connecting with fellow data enthusiasts or discussing project ideas. You can reach out to me on:
 
-- **[LinkedIn]https://www.linkedin.com/in/ankita-lokhande-b793a8280/**
+- **LinkedIn**: https://www.linkedin.com/in/ankita-lokhande-b793a8280/
 - **Email**: ankitalokhande237@gmail.com
 
 ---
