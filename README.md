@@ -25,6 +25,9 @@ Here are a few projects I’ve worked on to build my practical skills in analyti
 - **📊 HR Analytics**: 
    - Conducted a comprehensive study on employee data to understand factors affecting retention and performance, helping in strategic HR decision-making.
    - [**View Project Details**](https://github.com/shubvyas/HR-Analytics)
+- **💰 Stock Market Analysis**:
+   - This dashboard is a blend of financial analysis and predictive modeling, offering a powerful tool for investors, analysts, and decision-makers who want to monitor stock market trends and anticipate future movements.
+   - [**View Project Details**](https://github.com/Nikitachatse/StockMarket_Analysis)
 
 ---
 
